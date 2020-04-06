@@ -31,16 +31,16 @@
 
 - HomePage
 
-![Homepage image]()
+![Homepage image](https://github.com/Anujaditya02/laravel_project/blob/master/project_images/home.png)
 
 - Login Page
 
-![Login Page]()
+![Login Page](https://github.com/Anujaditya02/laravel_project/blob/master/project_images/login.png)
 
 - Register Page
 
-![Register Page]()
+![Register Page](https://github.com/Anujaditya02/laravel_project/blob/master/project_images/register.png)
 
 - Services Page 
 
-![Services Page]()
+![Services Page](https://github.com/Anujaditya02/laravel_project/blob/master/project_images/services.png)
